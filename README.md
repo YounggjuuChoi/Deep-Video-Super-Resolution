@@ -1,5 +1,3 @@
-﻿# Github에 올릴 페이지
-
 # Deep Video Super-Resolution
 
 ---
@@ -33,63 +31,63 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 
 - **RRN-L**
 
-![Doc/Image/model1.png)
+![model1](./Doc/Image/model1.png)
 
 - **iSeeBetter**
 
-![Doc/Image/model2.png)
+![model2](./Doc/Image/model2.png)
 
 - **PFNL**
 
-![Doc/Image/model3.png)
+![model3](./Doc/Image/model3.png)
 
 - **ADNLVSR**
 
-![Doc/Image/model4.png)
+![model4](./Doc/Image/model4.png)
 
 - **EDVR**
 
-![Doc/Image/model5.png)
+![model5](./Doc/Image/model5.png)
 
 - **VSR-DUF**
 
-![Doc/Image/model6.png)
+![model6](./Doc/Image/model6.png)
 
 - **RBPN/6-PF**
 
-![Doc/Image/model7.png)
+![model7](./Doc/Image/model7.png)
 
 - **TDAN**
 
-![Doc/Image/model8.png)
+![model8](./Doc/Image/model8.png)
 
 - **FRVSR**
 
-![Doc/Image/model9.png)
+![model9](./Doc/Image/model9.png)
 
 - **WDVR**
 
-![Doc/Image/model10.png)
+![model10](./Doc/Image/model10.png)
 
 - **MDCN**
 
-![Doc/Image/model11.png)
+![model11](./Doc/Image/model11.png)
 
 - **DDAN**
 
-![Doc/Image/model12.png)
+![model12](./Doc/Image/model12.png)
 
 - **SOF-VSR**
 
-![Doc/Image/model13.png)
+![model13](./Doc/Image/model13.png)
 
 - **DRDVSR**
 
-![Doc/Image/model14.png)
+![model14](./Doc/Image/model14.png)
 
 - **VESPCN**
 
-![Doc/Image/model15.png)
+![model15](./Doc/Image/model15.png)
 
 ---
 
