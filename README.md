@@ -12,23 +12,47 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
 | RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | -                                                | 2020 | 27.69              |
-| iSeeBetter         | https://link.springer.com/content/pdf/10.1007/s41095-020-0175-7.pdf                                                                                                                   | https://github.com/amanchadha/iSeeBetter         | 2020 | 27.43              |
-| PFNL               | https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf | https://github.com/psychopa4/PFNL                | 2019 | 27.40              |
-| ADNLVSR            | https://www.sciencedirect.com/science/article/pii/S0925231220304550?casa_token=X22LpXpzhPQAAAAA:Zznqj2wrN_7UKydKmmFXYxSCx-K218Xr_9lnUh_yeMLrEexLxoH3B9QSDwSbAXYuwZs_qXpIA1Ym          | -                                                | 2020 | 27.39              |
-| EDVR               | https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf                        | https://github.com/xinntao/EDVR                  | 2019 | 27.35              |
-| VSR-DUF            | https://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf                                                                             | https://github.com/yhjo09/VSR-DUF                | 2018 | 27.31              |
-| RBPN/6-PF          | https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf                                         | https://github.com/alterzero/RBPN-PyTorch        | 2019 | 27.12              |
-| TDAN               | https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf                               | https://github.com/YapengTian/TDAN-VSR-CVPR-2020 | 2020 | 26.86              |
-| FRVSR              | https://openaccess.thecvf.com/content_cvpr_2018/papers/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.pdf                                                             | -                                                | 2018 | 26.69              |
-| WDVR               | https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Fan_An_Empirical_Investigation_of_Efficient_Spatio-Temporal_Modeling_in_Video_Restoration_CVPRW_2019_paper.pdf          | https://github.com/ychfan/wdvr_ntire2019         | 2019 | 26.62              |
-| MDCN               | https://www.sciencedirect.com/science/article/pii/S0925231219314614?casa_token=KHzPCNDE0w4AAAAA:RrG_XJVjt6jqTa1LRHNws_RNqKlc31iai9iwX7iHcBfWnYoOEhidRqZzhtx8HBrkQuunu6FqGlRm          | -                                                | 2019 | 26.49              |
-| DDAN               | https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995790                                                                                                                          | -                                                | 2020 | 26.48              |
-| SOF-VSR            | https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967249                                                                                                                          | https://github.com/LongguangWang/SOF-VSR         | 2020 | 26.01              |
-| DRDVSR             | https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf                                                                            | https://github.com/jiangsutx/SPMC_VideoSR        | 2017 | 25.88              |
-| VESPCN             | https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf                                                                 | -                                                | 2017 | 25.35              |
+| iSeeBetter         | [Computational Visual Media][iSeeBetterpaperlink]                                                                                                                 | [PyTorch][iSeeBettercodelink]         | 2020 | 27.43              |
+| PFNL               | [ICCV19][PFNLpaperlink] | [TensorFlow][PFNLcodelink]                | 2019 | 27.40              |
+| ADNLVSR            | [Neurocomputing][ADNLVSRpaperlink]          | -                                                | 2020 | 27.39              |
+| EDVR               | [CVPR19][EDVRpaperlink]                        | [PyTorch][EDVRcodelink]                  | 2019 | 27.35              |
+| VSR-DUF            | [CVPR18][VSR-DUFpaperlink]                                                                             | [TensorFlow][VSR-DUFcodelink]                | 2018 | 27.31              |
+| RBPN/6-PF          | [CVPR19][RBPN/6-PFpaperlink]                                         | [PyTorch][RBPN/6-PFcodelink]        | 2019 | 27.12              |
+| TDAN               | [CVPR20][TDANpaperlink]                               | [PyTorch][TDANcodelink] | 2020 | 26.86              |
+| FRVSR              | [CVPR18][FRVSRpaperlink]                                                             | -                                                | 2018 | 26.69              |
+| WDVR               | [CVPR19][WDVRpaperlink]          | [PyTorch][WDVRcodelink]         | 2019 | 26.62              |
+| MDCN               | [Neurocomputing][MDCNpaperlink]          | -                                                | 2019 | 26.49              |
+| DDAN               | [IEEE Transactions on Image Processing][DDANpaperlink]                                                                                                                          | -                                                | 2020 | 26.48              |
+| SOF-VSR            | [IEEE Transactions on Image Processing][SOF-VSRpaperlink]                                                                                                                          | [PyTorch][SOF-VSRcodelink]         | 2020 | 26.01              |
+| DRDVSR             | [ICCV17][DRDVSRpaperlink]                                                                            | [TensorFlow][DRDVSRcodelink]        | 2017 | 25.88              |
+| VESPCN             | [CVPR17][VESPCNpaperlink]                                                                 | -                                                | 2017 | 25.35              |
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
 
 [RRN-Lpaperlink]: https://arxiv.org/pdf/2008.05765.pdf
+[iSeeBetterpaperlink]: https://link.springer.com/content/pdf/10.1007/s41095-020-0175-7.pdf
+[PFNLpaperlink]: https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf
+[ADNLVSRpaperlink]: https://www.sciencedirect.com/science/article/pii/S0925231220304550?casa_token=X22LpXpzhPQAAAAA:Zznqj2wrN_7UKydKmmFXYxSCx-K218Xr_9lnUh_yeMLrEexLxoH3B9QSDwSbAXYuwZs_qXpIA1Ym
+[EDVRpaperlink]: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf
+[VSR-DUFpaperlink]: https://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf
+[RBPN/6-PFpaperlink]: https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf
+[TDANpaperlink]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf
+[FRVSRpaperlink]: https://openaccess.thecvf.com/content_cvpr_2018/papers/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.pdf
+[WDVRpaperlink]: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Fan_An_Empirical_Investigation_of_Efficient_Spatio-Temporal_Modeling_in_Video_Restoration_CVPRW_2019_paper.pdf
+[MDCNpaperlink]: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Fan_An_Empirical_Investigation_of_Efficient_Spatio-Temporal_Modeling_in_Video_Restoration_CVPRW_2019_paper.pdf
+[DDANpaperlink]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995790
+[SOF-VSRpaperlink]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967249
+[DRDVSRpaperlink]: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
+[VESPCNpaperlink]: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
+
+[iSeeBettercodelink]: https://github.com/amanchadha/iSeeBetter
+[PFNLcodelink]: https://github.com/psychopa4/PFNL
+[EDVRcodelink]: https://github.com/xinntao/EDVR
+[VSR-DUFcodelink]: https://github.com/yhjo09/VSR-DUF
+[RBPN/6-PFcodelink]: https://github.com/alterzero/RBPN-PyTorch
+[TDANcodelink]: https://github.com/YapengTian/TDAN-VSR-CVPR-2020
+[WDVRcodelink]: https://github.com/ychfan/wdvr_ntire2019
+[SOF-VSRcodelink]: https://github.com/LongguangWang/SOF-VSR
+[DRDVSRcodelink]: https://github.com/jiangsutx/SPMC_VideoSR
 
 
 - **RRN-L**
