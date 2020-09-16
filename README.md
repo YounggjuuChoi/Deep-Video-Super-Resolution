@@ -11,7 +11,7 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 ### The state-of-the-art VSR
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
-| RRN-L              | https://arxiv.org/pdf/2008.05765.pdf                                                                                                                                                  | -                                                | 2020 | 27.69              |
+| RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | -                                                | 2020 | 27.69              |
 | iSeeBetter         | https://link.springer.com/content/pdf/10.1007/s41095-020-0175-7.pdf                                                                                                                   | https://github.com/amanchadha/iSeeBetter         | 2020 | 27.43              |
 | PFNL               | https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf | https://github.com/psychopa4/PFNL                | 2019 | 27.40              |
 | ADNLVSR            | https://www.sciencedirect.com/science/article/pii/S0925231220304550?casa_token=X22LpXpzhPQAAAAA:Zznqj2wrN_7UKydKmmFXYxSCx-K218Xr_9lnUh_yeMLrEexLxoH3B9QSDwSbAXYuwZs_qXpIA1Ym          | -                                                | 2020 | 27.39              |
@@ -27,6 +27,8 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 | DRDVSR             | https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf                                                                            | https://github.com/jiangsutx/SPMC_VideoSR        | 2017 | 25.88              |
 | VESPCN             | https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf                                                                 | -                                                | 2017 | 25.35              |
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
+
+[RRN-Lpaperlink]: https://arxiv.org/pdf/2008.05765.pdf
 
 
 - **RRN-L**
