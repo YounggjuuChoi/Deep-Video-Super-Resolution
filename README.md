@@ -120,7 +120,9 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 
 ---
 
-Please refer to [Dataset.md][./Doc/Dataset.md] for more details.
+Please refer to [Dataset.md][Datasetmdlink] for more details.
+
+[Datasetmdlink]: ./Doc/Dataset.md
 
 ---
 
