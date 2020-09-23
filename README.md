@@ -56,64 +56,63 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 
 
 - **RRN-L**
-
-<img src="./Doc/Image/model1.png" width="800">
+<img align="center" src="./Doc/Image/model1.png" width="800">
 
 - **iSeeBetter**
 
-![model2](./Doc/Image/model2.png)
+<img align="center" src="./Doc/Image/model2.png" width="800">
 
 - **PFNL**
 
-![model3](./Doc/Image/model3.png)
+<img align="center" src="./Doc/Image/model3.png" width="800">
 
 - **ADNLVSR**
 
-![model4](./Doc/Image/model4.png)
+<img align="center" src="./Doc/Image/model4.png" width="800">
 
 - **EDVR**
 
-![model5](./Doc/Image/model5.png)
+<img align="center" src="./Doc/Image/model5.png" width="800">
 
 - **VSR-DUF**
 
-![model6](./Doc/Image/model6.png)
+<img align="center" src="./Doc/Image/model6.png" width="800">
 
 - **RBPN/6-PF**
 
-![model7](./Doc/Image/model7.png)
+<img align="center" src="./Doc/Image/model7.png" width="800">
 
 - **TDAN**
 
-![model8](./Doc/Image/model8.png)
+<img align="center" src="./Doc/Image/model8.png" width="800">
 
 - **FRVSR**
 
-![model9](./Doc/Image/model9.png)
+<img align="center" src="./Doc/Image/model9.png" width="800">
 
 - **WDVR**
 
-![model10](./Doc/Image/model10.png)
+<img align="center" src="./Doc/Image/model10.png" width="800">
 
 - **MDCN**
 
-![model11](./Doc/Image/model11.png)
+<img align="center" src="./Doc/Image/model11.png" width="800">
 
 - **DDAN**
 
-![model12](./Doc/Image/model12.png)
+<img align="center" src="./Doc/Image/model12.png" width="800">
 
 - **SOF-VSR**
 
-![model13](./Doc/Image/model13.png)
+<img align="center" src="./Doc/Image/model13.png" width="800">
 
 - **DRDVSR**
 
-![model14](./Doc/Image/model14.png)
+<img align="center" src="./Doc/Image/model14.png" width="800">
 
 - **VESPCN**
 
-![model15](./Doc/Image/model15.png)
+<img align="center" src="./Doc/Image/model15.png" width="800">
 
 ---
 
