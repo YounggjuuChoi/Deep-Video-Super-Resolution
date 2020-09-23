@@ -57,7 +57,7 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 
 - **RRN-L**
 
-![model1](./Doc/Image/model1.png){ width=70% }
+<img src="./Doc/Image/model1.png" width="800">
 
 - **iSeeBetter**
 
