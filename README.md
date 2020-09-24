@@ -6,9 +6,11 @@
 
 ---
 
-Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-resolution), this repository contains summary of the state-of-the-art VSR methods.
+Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-resolution), this repository contains summary of the state-of-the-art VSR methods.
 
 ### The state-of-the-art VSR
+
+<center>
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
 | RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | -                                                | 2020 | 27.69              |
@@ -27,7 +29,8 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 | DRDVSR             | [ICCV17][DRDVSRpaperlink]                                                                            | [TensorFlow][DRDVSRcodelink]        | 2017 | 25.88              |
 | VESPCN             | [CVPR17][VESPCNpaperlink]                                                                 | -                                                | 2017 | 25.35              |
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
-
+</center>
+ 
 [RRN-Lpaperlink]: https://arxiv.org/pdf/2008.05765.pdf
 [iSeeBetterpaperlink]: https://link.springer.com/content/pdf/10.1007/s41095-020-0175-7.pdf
 [PFNLpaperlink]: https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf
