@@ -26,7 +26,9 @@ You can get the ground-truth (GT) of Vid4 dataset from [here][vid4link].
 
 ---
 
-<img align="center" src="./Image/vimeo90k.png" width="800">
+<p align="center">
+  <img src="./Image/vimeo90k.png" width="800">
+</p>
 
 The Vimeo90K[2] is a large-scale, high-quality video dataset, designed for the following four video processing tasks: temporal frame interpolation, video denoising, video deblocking, and video super-resolution.
 
@@ -47,7 +49,9 @@ The original training + test set (consists of 91701 sequences, which are not dow
 
 ---
 
-<img align="center" src="./Image/reds.png" width="800">
+<p align="center">
+  <img src="./Image/reds.png" width="800">
+</p>
 
 The REDS (REalistic and Dynamic Scenes) dataset[3] which proposed in the NTIRE 2019 challenge designed for two video processing tasks: video deblurring and video super resolution. All of the sequences have 720x 1280 resolution.
 
