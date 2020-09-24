@@ -56,64 +56,94 @@ Based on [paperwithcode vsr task](https://paperswithcode.com/task/video-super-re
 
 
 - **RRN-L**
-<img align="center" src="./Doc/Image/model1.png" width="800">
+
+<p align="center">
+  <img src="./Doc/Image/model1.png" width="800">
+</p>
 
 - **iSeeBetter**
 
-<img align="center" src="./Doc/Image/model2.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model2.png" width="800">
+</p>
 
 - **PFNL**
 
-<img align="center" src="./Doc/Image/model3.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model3.png" width="800">
+</p>
 
 - **ADNLVSR**
 
-<img align="center" src="./Doc/Image/model4.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model4.png" width="800">
+</p>
 
 - **EDVR**
 
-<img align="center" src="./Doc/Image/model5.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model5.png" width="800">
+</p>
 
 - **VSR-DUF**
 
-<img align="center" src="./Doc/Image/model6.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model6.png" width="800">
+</p>
 
 - **RBPN/6-PF**
 
-<img align="center" src="./Doc/Image/model7.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model7.png" width="800">
+</p>
 
 - **TDAN**
 
-<img align="center" src="./Doc/Image/model8.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model8.png" width="800">
+</p>
 
 - **FRVSR**
 
-<img align="center" src="./Doc/Image/model9.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model9.png" width="800">
+</p>
 
 - **WDVR**
 
-<img align="center" src="./Doc/Image/model10.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model10.png" width="800">
+</p>
 
 - **MDCN**
 
-<img align="center" src="./Doc/Image/model11.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model11.png" width="800">
+</p>
 
 - **DDAN**
 
-<img align="center" src="./Doc/Image/model12.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model12.png" width="800">
+</p>
 
 - **SOF-VSR**
 
-<img align="center" src="./Doc/Image/model13.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model13.png" width="800">
+</p>
 
 - **DRDVSR**
 
-<img align="center" src="./Doc/Image/model14.png" width="800">
+<p align="center">
+  <img src="./Doc/Image/model14.png" width="800">
+</p>
 
 - **VESPCN**
 
-<img align="center" src="./Doc/Image/model15.png" width="800">
-
+<p align="center">
+  <img src="./Doc/Image/model15.png" width="800">
+</p>
 ---
 
 ## 2) The datasets of VSR
