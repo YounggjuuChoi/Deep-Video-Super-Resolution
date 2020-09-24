@@ -9,7 +9,10 @@ Generally, the scale of down-sampling set to x2, x3, and x4.
 ## 1) Vid4
 
 ---
-<img align="center" src="./Image/vid4.png" width="800">
+
+<p align="center">
+  <img src="./Image/vid4.png" width="800">
+</p>
 
 The Vid4 dataset[1] is generally used for testing. It consists of the four sequences, walk (740x480, 47 frames), foliage (740x480, 49 frames), city (704x576, 34 frames), and calendar (720x576, 41 frames).
 
@@ -37,6 +40,7 @@ The original training + test set (consists of 91701 sequences, which are not dow
 
 [vimeo90k-testlink]: http://data.csail.mit.edu/tofu/testset/vimeo_super_resolution_test.zip
 [vimeo90k-alllink]: http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip
+
 ---
 
 ## 3) REDS
