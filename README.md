@@ -12,7 +12,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
-| RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | -                                                | 2020 | 27.69              |
+| RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | [PyTorch][RRN-Lcodelink]                                                | 2020 | 27.69              |
 | iSeeBetter         | [Computational Visual Media][iSeeBetterpaperlink]                                                                                                                 | [PyTorch][iSeeBettercodelink]         | 2020 | 27.43              |
 | PFNL               | [ICCV19][PFNLpaperlink] | [TensorFlow][PFNLcodelink]                | 2019 | 27.40              |
 | ADNLVSR            | [Neurocomputing][ADNLVSRpaperlink]          | -                                                | 2020 | 27.39              |
@@ -45,6 +45,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [DRDVSRpaperlink]: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
 [VESPCNpaperlink]: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
 
+[RRN-Lcodelink]: https://github.com/junpan19/RRN
 [iSeeBettercodelink]: https://github.com/amanchadha/iSeeBetter
 [PFNLcodelink]: https://github.com/psychopa4/PFNL
 [EDVRcodelink]: https://github.com/xinntao/EDVR
