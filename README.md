@@ -39,7 +39,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [TDANpaperlink]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf
 [FRVSRpaperlink]: https://openaccess.thecvf.com/content_cvpr_2018/papers/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.pdf
 [WDVRpaperlink]: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Fan_An_Empirical_Investigation_of_Efficient_Spatio-Temporal_Modeling_in_Video_Restoration_CVPRW_2019_paper.pdf
-[MDCNpaperlink]: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Fan_An_Empirical_Investigation_of_Efficient_Spatio-Temporal_Modeling_in_Video_Restoration_CVPRW_2019_paper.pdf
+[MDCNpaperlink]: https://www.sciencedirect.com/science/article/abs/pii/S0925231219314614
 [DDANpaperlink]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995790
 [SOF-VSRpaperlink]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967249
 [DRDVSRpaperlink]: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
