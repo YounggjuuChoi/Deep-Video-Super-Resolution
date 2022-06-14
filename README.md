@@ -12,6 +12,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
+| VRT              | [arXiv][VRTpaperlink]                                                                                                                                                  | [PyTorch][VRTcodelink]                                                | 2022 | 27.93              |
 | RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | [PyTorch][RRN-Lcodelink]                                                | 2020 | 27.69              |
 | iSeeBetter         | [Computational Visual Media][iSeeBetterpaperlink]                                                                                                                 | [PyTorch][iSeeBettercodelink]         | 2020 | 27.43              |
 | PFNL               | [ICCV19][PFNLpaperlink] | [TensorFlow][PFNLcodelink]                | 2019 | 27.40              |
@@ -29,6 +30,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 | VESPCN             | [CVPR17][VESPCNpaperlink]                                                                 | -                                                | 2017 | 25.35              |
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
  
+[VRTpaperlink]: https://arxiv.org/pdf/2201.12288v1.pdf
 [RRN-Lpaperlink]: https://arxiv.org/pdf/2008.05765.pdf
 [iSeeBetterpaperlink]: https://link.springer.com/content/pdf/10.1007/s41095-020-0175-7.pdf
 [PFNLpaperlink]: https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf
@@ -45,6 +47,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [DRDVSRpaperlink]: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
 [VESPCNpaperlink]: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
 
+[VRTcodelink]: https://github.com/jingyunliang/vrt
 [RRN-Lcodelink]: https://github.com/junpan19/RRN
 [iSeeBettercodelink]: https://github.com/amanchadha/iSeeBetter
 [PFNLcodelink]: https://github.com/psychopa4/PFNL
@@ -56,6 +59,12 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [SOF-VSRcodelink]: https://github.com/LongguangWang/SOF-VSR
 [DRDVSRcodelink]: https://github.com/jiangsutx/SPMC_VideoSR
 
+
+- **VRT**
+
+<p align="center">
+  <img src="./Doc/Image/model16.png" width="800">
+</p>
 
 - **RRN-L**
 
