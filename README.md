@@ -63,7 +63,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 - **VRT**
 
 <p align="center">
-  <img src="./Doc/Image/model16.png" width="800">
+  <img src="./Doc/Image/model16.PNG" width="800">
 </p>
 
 - **RRN-L**
