@@ -171,6 +171,7 @@ Please refer to [Dataset.md][Datasetmdlink] for more details.
 
 ---
 
+- Liang, Jingyun, et al. "Vrt: A video restoration transformer." arXiv preprint arXiv:2201.12288 (2022).
 - Isobe, Takashi, Fang Zhu, and Shengjin Wang. "Revisiting Temporal Modeling for Video Super-resolution." arXiv preprint arXiv:2008.05765 (2020).
 - Chadha, Aman, John Britto, and M. Mani Roja. "iSeeBetter: Spatio-temporal video super-resolution using recurrent generative back-projection networks." Computational Visual Media (2020): 1-12.
 - Yi, Peng, et al. "Progressive fusion video super-resolution network via exploiting non-local spatio-temporal correlations." Proceedings of the IEEE International Conference on Computer Vision. 2019.
