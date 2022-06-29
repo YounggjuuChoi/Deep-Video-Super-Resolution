@@ -75,6 +75,12 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
   <img src="./Doc/Image/model16.PNG" width="800">
 </p>
 
+- **BasicVSR++**
+
+<p align="center">
+  <img src="./Doc/Image/model19.PNG" width="800">
+</p>
+
 - **RRN-L**
 
 <p align="center">
@@ -93,6 +99,12 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
   <img src="./Doc/Image/model3.png" width="800">
 </p>
 
+- **IconVSR**
+
+<p align="center">
+  <img src="./Doc/Image/model18.PNG" width="900">
+</p>
+
 - **ADNLVSR**
 
 <p align="center">
@@ -109,6 +121,12 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 
 <p align="center">
   <img src="./Doc/Image/model6.png" width="800">
+</p>
+
+- **BasicVSR**
+
+<p align="center">
+  <img src="./Doc/Image/model17.PNG" width="700">
 </p>
 
 - **RBPN/6-PF**
