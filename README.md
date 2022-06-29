@@ -13,12 +13,15 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
 | VRT              | [arXiv][VRTpaperlink]                                                                                                                                                  | [PyTorch][VRTcodelink]                                                | 2022 | 27.93              |
+| BasicVSR++              | [CVPR22][BasicVSRpppaperlink]                                                                                                                                                  | [PyTorch][BasicVSRppcodelink]                                                | 2022 | 27.79              |
 | RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | [PyTorch][RRN-Lcodelink]                                                | 2020 | 27.69              |
 | iSeeBetter         | [Computational Visual Media][iSeeBetterpaperlink]                                                                                                                 | [PyTorch][iSeeBettercodelink]         | 2020 | 27.43              |
 | PFNL               | [ICCV19][PFNLpaperlink] | [TensorFlow][PFNLcodelink]                | 2019 | 27.40              |
+| IconVSR              | [CVPR21][IconVSRpaperlink]                                                                                                                                                  | [PyTorch][IconVSRcodelink]                                                | 2021 | 27.39              |
 | ADNLVSR            | [Neurocomputing][ADNLVSRpaperlink]          | -                                                | 2020 | 27.39              |
 | EDVR               | [CVPR19][EDVRpaperlink]                        | [PyTorch][EDVRcodelink]                  | 2019 | 27.35              |
 | VSR-DUF            | [CVPR18][VSR-DUFpaperlink]                                                                             | [TensorFlow][VSR-DUFcodelink]                | 2018 | 27.31              |
+| BasicVSR              | [CVPR21][BasicVSRpaperlink]                                                                                                                                                  | [PyTorch][BasicVSRcodelink]                                                | 2021 | 27.24              |
 | RBPN/6-PF          | [CVPR19][RBPN/6-PFpaperlink]                                         | [PyTorch][RBPN/6-PFcodelink]        | 2019 | 27.12              |
 | TDAN               | [CVPR20][TDANpaperlink]                               | [PyTorch][TDANcodelink] | 2020 | 26.86              |
 | FRVSR              | [CVPR18][FRVSRpaperlink]                                                             | -                                                | 2018 | 26.69              |
@@ -31,12 +34,15 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
  
 [VRTpaperlink]: https://arxiv.org/pdf/2201.12288v1.pdf
+[BasicVSRpppaperlink]: https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_BasicVSR_Improving_Video_Super-Resolution_With_Enhanced_Propagation_and_Alignment_CVPR_2022_paper.pdf
 [RRN-Lpaperlink]: https://arxiv.org/pdf/2008.05765.pdf
 [iSeeBetterpaperlink]: https://link.springer.com/content/pdf/10.1007/s41095-020-0175-7.pdf
 [PFNLpaperlink]: https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf
+[IconVSRpaperlink]: https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf
 [ADNLVSRpaperlink]: https://www.sciencedirect.com/science/article/pii/S0925231220304550?casa_token=X22LpXpzhPQAAAAA:Zznqj2wrN_7UKydKmmFXYxSCx-K218Xr_9lnUh_yeMLrEexLxoH3B9QSDwSbAXYuwZs_qXpIA1Ym
 [EDVRpaperlink]: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf
 [VSR-DUFpaperlink]: https://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf
+[BasicVSRpaperlink]: https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf
 [RBPN/6-PFpaperlink]: https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf
 [TDANpaperlink]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf
 [FRVSRpaperlink]: https://openaccess.thecvf.com/content_cvpr_2018/papers/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.pdf
@@ -48,11 +54,14 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [VESPCNpaperlink]: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
 
 [VRTcodelink]: https://github.com/jingyunliang/vrt
+[BasicVSRppcodelink]: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 [RRN-Lcodelink]: https://github.com/junpan19/RRN
 [iSeeBettercodelink]: https://github.com/amanchadha/iSeeBetter
 [PFNLcodelink]: https://github.com/psychopa4/PFNL
+[IconVSRcodelink]: https://github.com/ckkelvinchan/BasicVSR-IconVSR
 [EDVRcodelink]: https://github.com/xinntao/EDVR
 [VSR-DUFcodelink]: https://github.com/yhjo09/VSR-DUF
+[BasicVSRcodelink]: https://github.com/ckkelvinchan/BasicVSR-IconVSR
 [RBPN/6-PFcodelink]: https://github.com/alterzero/RBPN-PyTorch
 [TDANcodelink]: https://github.com/YapengTian/TDAN-VSR-CVPR-2020
 [WDVRcodelink]: https://github.com/ychfan/wdvr_ntire2019
