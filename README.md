@@ -199,9 +199,11 @@ Please refer to [Dataset.md][Datasetmdlink] for more details.
 ---
 
 - Liang, Jingyun, et al. "Vrt: A video restoration transformer." arXiv preprint arXiv:2201.12288 (2022).
+- Chan, Kelvin CK, et al. "BasicVSR++: Improving video super-resolution with enhanced propagation and alignment." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 - Isobe, Takashi, Fang Zhu, and Shengjin Wang. "Revisiting Temporal Modeling for Video Super-resolution." arXiv preprint arXiv:2008.05765 (2020).
 - Chadha, Aman, John Britto, and M. Mani Roja. "iSeeBetter: Spatio-temporal video super-resolution using recurrent generative back-projection networks." Computational Visual Media (2020): 1-12.
 - Yi, Peng, et al. "Progressive fusion video super-resolution network via exploiting non-local spatio-temporal correlations." Proceedings of the IEEE International Conference on Computer Vision. 2019.
+- Chan, Kelvin CK, et al. "BasicVSR: The search for essential components in video super-resolution and beyond." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
 - Sun, Wei, and Yanning Zhang. "Attention-guided Dual Spatial-Temporal Non-local Network for Video Super-Resolution." Neurocomputing (2020).
 - Wang, Xintao, et al. "Edvr: Video restoration with enhanced deformable convolutional networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2019.
 - Jo, Younghyun, et al. "Deep video super-resolution network using dynamic upsampling filters without explicit motion compensation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
