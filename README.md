@@ -12,6 +12,8 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
+| PSRT              | [arXiv][PSRTpaperlink]                                                                                                                                                  | [PyTorch][PSRTcodelink]                                                | 2022 | 28.07              |
+| RVRT              | [arXiv][RVRTpaperlink]                                                                                                                                                  | [PyTorch][RVRTcodelink]                                                | 2022 | 27.99              |
 | VRT              | [arXiv][VRTpaperlink]                                                                                                                                                  | [PyTorch][VRTcodelink]                                                | 2022 | 27.93              |
 | BasicVSR++              | [CVPR22][BasicVSRpppaperlink]                                                                                                                                                  | [PyTorch][BasicVSRppcodelink]                                                | 2022 | 27.79              |
 | RRN-L              | [arXiv][RRN-Lpaperlink]                                                                                                                                                  | [PyTorch][RRN-Lcodelink]                                                | 2020 | 27.69              |
@@ -33,6 +35,8 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 | VESPCN             | [CVPR17][VESPCNpaperlink]                                                                 | -                                                | 2017 | 25.35              |
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
  
+[PSRTpaperlink]: https://arxiv.org/pdf/2207.08494v2.pdf
+[RVRTpaperlink]: https://arxiv.org/pdf/2206.02146v2.pdf
 [VRTpaperlink]: https://arxiv.org/pdf/2201.12288v1.pdf
 [BasicVSRpppaperlink]: https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_BasicVSR_Improving_Video_Super-Resolution_With_Enhanced_Propagation_and_Alignment_CVPR_2022_paper.pdf
 [RRN-Lpaperlink]: https://arxiv.org/pdf/2008.05765.pdf
@@ -53,6 +57,8 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [DRDVSRpaperlink]: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
 [VESPCNpaperlink]: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
 
+[PSRTcodelink]: https://github.com/XPixelGroup/RethinkVSRAlignment
+[RVRTcodelink]: https://github.com/jingyunliang/rvrt
 [VRTcodelink]: https://github.com/jingyunliang/vrt
 [BasicVSRppcodelink]: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 [RRN-Lcodelink]: https://github.com/junpan19/RRN
@@ -68,6 +74,18 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [SOF-VSRcodelink]: https://github.com/LongguangWang/SOF-VSR
 [DRDVSRcodelink]: https://github.com/jiangsutx/SPMC_VideoSR
 
+
+- **PSRT**
+
+<p align="center">
+  <img src="./Doc/Image/model20.PNG" width="800">
+</p>
+
+- **RVRT**
+
+<p align="center">
+  <img src="./Doc/Image/model21.PNG" width="800">
+</p>
 
 - **VRT**
 
