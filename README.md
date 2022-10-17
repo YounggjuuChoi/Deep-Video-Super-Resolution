@@ -216,6 +216,8 @@ Please refer to [Dataset.md][Datasetmdlink] for more details.
 
 ---
 
+- Shi, Shuwei, et al. "Rethinking alignment in video super-resolution transformers." arXiv preprint arXiv:2207.08494 (2022).
+- Liang, Jingyun, et al. "Recurrent Video Restoration Transformer with Guided Deformable Attention." arXiv preprint arXiv:2206.02146 (2022).
 - Liang, Jingyun, et al. "Vrt: A video restoration transformer." arXiv preprint arXiv:2201.12288 (2022).
 - Chan, Kelvin CK, et al. "BasicVSR++: Improving video super-resolution with enhanced propagation and alignment." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 - Isobe, Takashi, Fang Zhu, and Shengjin Wang. "Revisiting Temporal Modeling for Video Super-resolution." arXiv preprint arXiv:2008.05765 (2020).
