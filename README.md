@@ -10,7 +10,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 
 ### The state-of-the-art VSR
 
-| Model             | Published                                                                                                                                                                             | Code                                             | Year | Vid4 Y - 4x (PSNR) |
+| Model             | Published                                                                                                                                                                             | Code                                             | Year | BI degradation Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
 | PSRT              | [arXiv][PSRTpaperlink]                                                                                                                                                  | [PyTorch][PSRTcodelink]                                                | 2022 | 28.07              |
 | RVRT              | [arXiv][RVRTpaperlink]                                                                                                                                                  | [PyTorch][RVRTcodelink]                                                | 2022 | 27.99              |
