@@ -12,6 +12,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 
 | Model             | Published                                                                                                                                                                             | Code                                             | Year | BI degradation Vid4 Y - 4x (PSNR) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------ |
+| FTVSR              | [arXiv][FTVSRpaperlink]                                                                                                                                                  | [PyTorch][FTVSRcodelink]                                                | 2022 | 28.70              |
 | PSRT              | [arXiv][PSRTpaperlink]                                                                                                                                                  | [PyTorch][PSRTcodelink]                                                | 2022 | 28.07              |
 | RVRT              | [arXiv][RVRTpaperlink]                                                                                                                                                  | [PyTorch][RVRTcodelink]                                                | 2022 | 27.99              |
 | VRT              | [arXiv][VRTpaperlink]                                                                                                                                                  | [PyTorch][VRTcodelink]                                                | 2022 | 27.93              |
@@ -35,6 +36,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 | VESPCN             | [CVPR17][VESPCNpaperlink]                                                                 | -                                                | 2017 | 25.35              |
 | Bicubic (Baseline) |                                                                                                                                                                                       |                                                  |      | 23.82              |
  
+[FTVSRpaperlink]: https://arxiv.org/pdf/2212.14046v1.pdf
 [PSRTpaperlink]: https://arxiv.org/pdf/2207.08494v2.pdf
 [RVRTpaperlink]: https://arxiv.org/pdf/2206.02146v2.pdf
 [VRTpaperlink]: https://arxiv.org/pdf/2201.12288v1.pdf
@@ -57,6 +59,7 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [DRDVSRpaperlink]: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
 [VESPCNpaperlink]: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
 
+[FTVSRcodelink]: https://github.com/researchmm/ftvsr
 [PSRTcodelink]: https://github.com/XPixelGroup/RethinkVSRAlignment
 [RVRTcodelink]: https://github.com/jingyunliang/rvrt
 [VRTcodelink]: https://github.com/jingyunliang/vrt
@@ -74,6 +77,12 @@ Based on [paperwithcode VSR task](https://paperswithcode.com/task/video-super-re
 [SOF-VSRcodelink]: https://github.com/LongguangWang/SOF-VSR
 [DRDVSRcodelink]: https://github.com/jiangsutx/SPMC_VideoSR
 
+
+- **FTVSR**
+
+<p align="center">
+  <img src="./Doc/Image/model22.PNG" width="800">
+</p>
 
 - **PSRT**
 
@@ -216,6 +225,7 @@ Please refer to [Dataset.md][Datasetmdlink] for more details.
 
 ---
 
+- Qiu, Zhongwei, et al. "Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution." arXiv preprint arXiv:2212.14046 (2022).
 - Shi, Shuwei, et al. "Rethinking alignment in video super-resolution transformers." arXiv preprint arXiv:2207.08494 (2022).
 - Liang, Jingyun, et al. "Recurrent Video Restoration Transformer with Guided Deformable Attention." arXiv preprint arXiv:2206.02146 (2022).
 - Liang, Jingyun, et al. "Vrt: A video restoration transformer." arXiv preprint arXiv:2201.12288 (2022).
